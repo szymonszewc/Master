@@ -1,0 +1,15 @@
+rs485.c:94:6:rs485_init_SW	8	static
+rs485.c:99:6:rs485_init_EF	8	static
+rs485.c:108:6:rs485_step_SW	8	static
+rs485.c:113:6:rs485_step_EF	8	static
+rs485.c:122:13:sendData_SW	8	static,ignoring_inline_asm
+rs485.c:157:13:sendData_EF	8	static,ignoring_inline_asm
+rs485.c:192:13:receiveData_SW	16	static,ignoring_inline_asm
+rs485.c:251:6:HAL_UART_RxCpltCallback	16	static
+rs485.c:276:13:receiveData_EF	16	static,ignoring_inline_asm
+rs485.c:340:13:prepareNewDataToSend_SW	24	static
+rs485.c:403:13:prepareNewDataToSend_EF	16	static
+rs485.c:422:13:processReceivedData_SW	16	static
+rs485.c:442:13:processReceivedData_EF	16	static
+rs485.c:475:13:resetActData_SW	4	static
+rs485.c:494:13:resetActData_EF	16	static

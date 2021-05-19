@@ -1,0 +1,7 @@
+timers.c:42:6:timers_init	8	static
+timers.c:52:20:timers_step	8	static
+timers.c:63:20:setSystemOperatingTime	4	static
+timers.c:93:6:timers_beforeStep1kHz	4	static
+timers.c:102:6:timers_afterStep1kHz	4	static
+timers.c:146:6:HAL_SYSTICK_Callback	8	static
+timers.c:151:6:HAL_TIM_PeriodElapsedCallback	16	static
